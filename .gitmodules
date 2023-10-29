@@ -8,3 +8,6 @@
 [submodule "selenider"]
 	path = selenider
 	url = https://github.com/ashbythorpe/selenider
+[submodule "selenium"]
+	path = selenium
+	url = https://github.com/ashbythorpe/selenium-r
