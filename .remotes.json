@@ -1,8 +1,0 @@
-[
-  {
-    "package": "selenium",
-    "url": "https://github.com/ashbythorpe/selenium-r",
-    "via": ["selenider"],
-    "from": "selenider"
-  }
-]
