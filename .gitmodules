@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "nestedmodels"]
-	path = nestedmodels
-	url = https://github.com/ashbythorpe/nestedmodels
 [submodule "selenider"]
 	path = selenider
 	url = https://github.com/ashbythorpe/selenider
